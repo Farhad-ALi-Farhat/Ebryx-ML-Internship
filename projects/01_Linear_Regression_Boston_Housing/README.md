@@ -147,11 +147,7 @@ Possible improvements include:
 │
 ├── housing.csv
 ├── 01_Linear_Regression_Boston_Housing.ipynb
-├── README.md
-└── assets/
-    ├── correlation_heatmap.png
-    ├── actual_vs_predicted.png
-    └── residual_plot.png
+└── README.md
 ```
 
 ---
