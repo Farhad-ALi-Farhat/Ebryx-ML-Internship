@@ -13,14 +13,12 @@ The purpose of this repository is to organize my work, track my learning, and sh
 ├── projects/
 ├── datasets/
 ├── notes/
-├── assets/
 └── README.md
 ```
 
 - **projects/** – Machine learning projects, assignments, and experiments
 - **datasets/** – Public datasets or dataset references used in projects
 - **notes/** – Learning notes, summaries, and research
-- **assets/** – Images, diagrams, visualizations, and other supporting files
 
 ---
 
