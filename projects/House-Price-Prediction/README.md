@@ -110,5 +110,3 @@ This project is for educational purposes.
 ## 👤 Author
 
 Farhad Ali  
-AI & Machine Learning Enthusiast  
-Interested in Computer Vision & Deep Learning
