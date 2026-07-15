@@ -16,29 +16,6 @@ This project helps in:
 
 ---
 
-## 📂 Project Structure
-
-House-Price-Prediction/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│
-├── notebooks/
-│   └── house_price_prediction.ipynb
-│
-├── models/
-│   └── submission.csv
-│
-├── assets/
-│   └── plots.png
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## ⚙️ Tech Stack
 
 - Python
