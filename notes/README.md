@@ -31,14 +31,10 @@ notes/
 │
 ├── week-02/
 │   ├── README.md
-│   ├── 01-decision-trees.md
-│   ├── 02-knn.md
-│   ├── 03-naive-bayes.md
-│   ├── 04-train-test-split-and-cross-validation.md
-│   ├── 05-feature-scaling.md
-│   ├── 06-handling-missing-data.md
-│   ├── 07-encoding-categorical-features.md
-│   └── 08-feature-selection-vs-dimensionality-reduction.md
+│   ├── DT_KNN_NB.md
+│   ├── Train-Test_Cross_Val.md
+│   ├── Feature_Scaling_Encoding.md
+│   └── Feature-Selection_vs_Dimensionality-Reduction.md
 │
 └── week-03/
     ├── README.md
