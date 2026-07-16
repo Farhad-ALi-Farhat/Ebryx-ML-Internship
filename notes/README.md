@@ -66,11 +66,5 @@ Some of the topics included in this repository are:
 - Model Training & Evaluation
 - Hyperparameter Tuning
 - Optimization Algorithms
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Transformers & LLMs
-- MLOps
-- AI Agents
 
 > **Note:** This repository is continuously updated as I progress through the internship.
