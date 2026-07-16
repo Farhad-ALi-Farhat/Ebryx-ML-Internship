@@ -33,16 +33,15 @@ notes/
 │   ├── README.md
 │   ├── DT_KNN_NB.md
 │   ├── Train-Test_Cross_Val.md
-│   ├── Feature_Scaling_Encoding.md
+│   ├── Scaling_Encoding_Features.md
 │   └── Feature-Selection_vs_Dimensionality-Reduction.md
 │
 └── week-03/
     ├── README.md
-    ├── 01-unsupervised-learning.md
-    ├── 02-kmeans-clustering.md
-    ├── 03-hierarchical-clustering.md
-    ├── 04-pca.md
-    └── 05-hyperparameter-tuning.md
+    ├── Kmeans-Clustering.md
+    ├── Hierarchical_Clustering.md
+    ├── PCA.md
+    └── Hyperparameter_Tuning.md
 ```
 
 ## Learning Goals
